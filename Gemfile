@@ -6,6 +6,7 @@ gem 'rails', '4.0.2'
 gem 'bootstrap-sass'
 gem 'pg', '0.18.4'
 gem 'sprockets-rails'
+gem 'bcrypt-ruby', '3.1.5'
 
 group :development, :test do
 #  gem 'active_interaction', '2.1.3'
