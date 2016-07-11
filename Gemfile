@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 ruby '2.3.0'
 #ruby-gemset=railstutorial_rails_4_0
 
-gem 'rails', '4.0.2'
+gem 'rails', '4.1.9'
 gem 'bootstrap-sass'
 gem 'pg', '0.18.4'
 gem 'sprockets-rails'
@@ -43,8 +43,8 @@ gem 'coffee-rails', '4.0.1'
 gem 'jquery-rails', '3.0.4'
 gem 'turbolinks', '1.1.1'
 gem 'jbuilder', '1.0.2'
-gem 'activesupport', '4.0.2'
-gem 'activerecord', '4.0.2'
+gem 'activesupport', '4.1.9'
+gem 'activerecord', '4.1.9'
 gem 'test-unit'
 
 group :doc do
