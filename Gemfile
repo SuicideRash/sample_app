@@ -23,6 +23,7 @@ group :development, :test do
   gem 'spork'
   gem 'childprocess', '0.3.6'
   gem 'rb-fsevent'
+  gem 'factory_girl_rails'
 
 end
 
